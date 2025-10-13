@@ -8,7 +8,7 @@
 - Une application de gestion de tâches en **Android Kotlin**  
 
 ### 🌱 Je suis en train d'apprendre
-- **Kotlin** pour Android  
+- **Kotlin and Flutter** pour Android  
 
 ### 💻 Compétences
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,10 +29,8 @@
 
 ---
 
-### 📂 Projets
-- [ToDo App Flutter](https://github.com/jiho-dev/ToDoAppFlutter) – Gestion de tâches simple  
-- [Weather App Android](https://github.com/jiho-dev/WeatherApp) – Affichage météo  
-- [Site Web PHP & MySQL](https://github.com/jiho-dev/SitePHP) – Gestion de données  
+### 📂 Projets 
+- [Site Web PHP & MySQL](https://github.com/jiho-dev/SitePHP) – Gestion des hotels  
 
 ---
 
@@ -52,6 +50,22 @@ en cours
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiho-dev&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho-dev&layout=compact&theme=dark)
+### 🏆 Mes langages principaux
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
