@@ -5,12 +5,10 @@
 ---
 
 ### 🔭 Actuellement je travaille sur
-- Une application de gestion de tâches en **Flutter**  
-- Une application météo en **Android Kotlin**  
+- Une application de gestion de tâches en **Android Kotlin**  
 
 ### 🌱 Je suis en train d'apprendre
-- **Swift** pour iOS  
-- **Firebase** pour backend mobile  
+- **Kotlin** pour Android  
 
 ### 💻 Compétences
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -23,20 +21,18 @@
 ---
 
 ### 📂 Projets
-- [ToDo App Flutter](https://github.com/jiho-dev/ToDoAppFlutter) – Gestion de tâches simple  
-- [Weather App Android](https://github.com/jiho-dev/WeatherApp) – Affichage météo  
+en cours
 
 ---
 
 ### 📫 Contact
-- Email: jihane@example.com  
+- Email: elayouchij@gmail.com  
 - LinkedIn: [Jihane ELAYOUCHI](https://linkedin.com/in/jihane)  
 
 ---
 
 ### ⚡ Fun fact
 - J'adore transformer mes idées en applications mobiles 🚀  
-- J'aime participer à des hackathons et challenges coding 💻  
 
 ---
 
