@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Jihane
 
-✨ Stagiaire développeuse mobile | Passionnée par Android & Flutter 📱
+Stagiaire développeuse mobile | Passionnée par Android & Flutter 📱
 
 ---
 
@@ -41,16 +41,16 @@ en cours
 
 ### 📫 Contact
 - Email: elayouchij@gmail.com  
-- LinkedIn: [Jihane ELAYOUCHI](https://linkedin.com/in/jihane)  
+- LinkedIn: [Jihane ELAYOUCHI](https://www.linkedin.com/in/jihane-el-ayouchi-668943348/)
 
 ---
 
 ### ⚡ Fun fact
-- J'adore transformer mes idées en applications mobiles 🚀  
+- J'adore transformer mes idées en applications mobiles   
 
 ---
 
-### 🏆 Mes langages principaux
+###  Mes langages principaux
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
